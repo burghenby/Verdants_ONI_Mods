@@ -4,6 +4,16 @@
 
 # WIP
 WIP
+lib
+bin
+obj
+.vs
+Decompiled
+*Backup*
+
 *.xcf
 *.jpg
 *.zip
+*.slnx
+*.csproj
+*.htm
