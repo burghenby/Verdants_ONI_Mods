@@ -1,0 +1,28 @@
+- hair_14alpha - Hair 14 (Ellie) recolored to the browner-blond of the Development Build
+- hair_24alpha - The original hair 24 (a brown version of hair 14) that was present in the files but never assigned to a Duplicant; Was removed with either the Prehistoric Planet DLC or Neutronium Cosmetic Pack
+- hair_25alpha - The original hair 25 (a brown version of hair 3) that was present in the files but never assigned to a Duplicant; Was removed with either the Prehistoric Planet DLC or Neutronium Cosmetic Pack
+- hair_26alpha - The original hair 26 (a lighter blond version of hair 14) that was present in the files but never assigned to a Duplicant; Was removed with either the Prehistoric Planet DLC or Neutronium Cosmetic Pack
+
+# "Error" hair; recolors of the hair used by the added "retired" Duplicants to appear glitchy
+- hair_archibald & hair_shadow - Recolors of hair 5 (Abe)
+- hair_mildred - Recolor of hair 16 (Leira)
+- hair_suki - Recolor of hair 8 (Bahni)
+- hair_fergus - Recolor of hair 31 (Travaldo)
+- hair_price - Recolor of hair 1 (Joshua/Ashkan)
+- hair_mystique - recolor of hair 2 (Mae)
+- hair_bea - Recolor of hair 4 (Nisbet)
+- hair_wongle & hair_horse - Recolors of hair 13 (Burt & Jean)
+- hair_eleanor - Recolor of hair 6 (Lindsay)
+
+- headshape_1alpha , mouth_1alpha , arm_1alpha , legskin_1alpha - The slightly darker pale skintone seen on Duplicants through much of the Development Build alongside the pale tone of headshape 1 that remains today
+- headshape_2alpha , mouth_2alpha , arm_2alpha , legskin_2alpha - A tan skintone that may have been replaced by the tan tone used for headshape 3 now
+- headshape_3alpha , mouth_3alpha , arm_3alpha , legskin_3alpha - A slightly different peach skintone seen on Duplicants through much of the Development Build alongside the peach tone of headshape 3 that remains today
+
+# These bodies have been slightly patterned to give these returning Duplicants a unique outfit to differentiate them from their modern counterparts.
+- torso_1alpha - Red
+- torso_2alpha - Blue
+- torso_3alpha - Yellow
+- torso_4alpha - Green
+
+* Torso 7 was removed with either the Prehistoric Planet DLC or Neutronium Cosmetic Pack. I've re-added it with the same pattern as the above bodies to use with the returning Development Build Duplicants.
+- torso_7bionic - Purple

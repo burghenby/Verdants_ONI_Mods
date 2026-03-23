@@ -1,0 +1,34 @@
+- hair_mccoy - Brown recolor of hair_1 (Ashkan/Joshua) for use with McCoy
+- hair_uhura - Black recolor of hair_3 (Otto) for use with Uhura
+- hair_scotty - Grey recolor of hair_11 (Turner) for use with Scotty
+
+# Inspired by uniforms worn only in Star Trek: The Motion Picture. Each color was specific to a different role.
+- torso_motionblue , neck_motionblue , pelvis_motionblue , leg_motionblue
+- torso_motionwhite , neck_motionwhite , pelvis_motionwhite , leg_motionwhite
+- torso_motiontan , neck_motiontan , pelvis_motiontan , leg_motiontan
+- torso_motiongrey  , neck_motiongrey , pelvis_motiongrey , leg_motiongrey
+- hand_motionwhite , cuff_motionwhite , belt_motioncinch
+- hair_ilia , neck_ilia , pelvis_ilia , belt_ilia ,  leg_ilia , foot_ilia - Pieces to partially recreate the Ilia Probe
+
+# Inspired by the uniforms worn from Star Trek II: The Wrath of Khan to Star Trek: VI: The Undiscovered Country. With these uniforms, the jacket remained uniform across the crew and the details changed colors according to their roles.
+- torso_wrathmaroon , belt_wrathutility , belt_wrathmaroon
+- neck_wrathgreen , neck_wrathwhite , neck_wrathgold , neck_wrathgrey , neck_wrathred
+
+# Body appearances inspired by characters or species in the Star Trek series
+
+# Data - Two options: A Bionic version with custom bionic mouth to match his skintone, and an "organic" Duplicant version in honor of his dream come true
+- mouth_organicdata - Standard Duplicate mouth set
+- mouth_bionicdata - Bionic Duplicant mouth set applied to Data skintone
+- eyes_data - Recolor of eyes_11 to be yellow, the color of Data's eyes
+- headshape_data, arm_data, legskin_data - I purposefully made this not pure white to distinquish it from white outfits in-game.
+
+# Orion - Reference to the green-skins Orions, first seen in the pilot episode of Star Trek: The Original Series
+- headshape_orion, arm_orion, legskin_orion, mouth_orion
+
+# Andorian - Reference to the blue-skinned Andorians, first seen in the episode "Journey to Babel" of Star Trek: The Original Series
+- hair_andorian - Andorians are all depicted with white hair of some variety and as individuals with an inclination for cold climes, Frejya's hair was perfect to adapt for their antenna
+- headshape_andorian, arm_andorian, legskin_andorian, mouth_andorian
+
+# Violacean - Reference to the violet-skinned Violaceans, first seen in the episode "Journey to Babel" but not named until the the MMO video game "Star Trek Online"
+- hair_violacean - Not all Violaceans have been depicted with purple hair, but as the game does not yet have one I decided to give a recolor of Pei's bun, always down.
+- headshape_violacean, arm_violacean, legskin_violacean, mouth_violacean

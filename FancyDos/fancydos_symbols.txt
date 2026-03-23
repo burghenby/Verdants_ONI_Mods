@@ -1,0 +1,25 @@
+hair_deefault - The default hair that appears on Duplicants in the selection screen when the game is lags while loading.
+hair_rosey - Down-only recolor of hair 8/30 (Bahni/Bubbles)
+hair_darla - Hair 35 recolored to match Darla Dimple, antagonist of the animated movie "Cats Don't Dance"
+hair_pi - Bionic-styled hair 37 (Pei), utilizing hair 49's (Ulti) face plates. Complete with subtle Bionic glow.
+hair_gigi - De-Bionic hair 46 (Gizmo)
+hair_jory - Hair 45 (Jorge) with a shave
+hair_sonya - De-Bionic hair 47 (Sonyar)
+hair_eddie - De-Bionic hair 48 (Edweirdo)
+hair_ultis - De-Bionic hair 49 (Ulti)
+hair_chippy - De-Bionic hair 50 (Chip)
+hait_orchid - Down-only recolor of hair 37 (Pei)
+
+headshape_jory , mouth_jory - Head and mouth 5 (Jorge) without beard
+
+torso_papaya - Papaya orange
+torso_citron - Citron green
+torso_tiffany - Tiffany blue
+torso_amber - Amber yellow
+torso_deefault - Added the previously-unselectable default pink torso seen when the game lags while loading new Duplicants
+torso_orchid - Orchid purple
+
+neck_fancycobalt - A necklace of blue cobalt
+neck_fancythermium - A necklace of pink thermium
+neck_fancytungsten - A necklace of silver tungsten
+neck_fancyiron - A necklace of red iron
